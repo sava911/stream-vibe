@@ -15,7 +15,7 @@
 }
 
 @mixin flex-center($isInline: false) {
-  @if($isInline) {
+  @if ($isInline) {
     display: inline-flex;
   }
 

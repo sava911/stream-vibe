@@ -1,8 +1,10 @@
 # stream-vibe
 
+FIGMA - https://www.figma.com/design/yIJ24Ux87CtJx2yX02sqJV/StreamVibe--Copy-?node-id=34-3&p=f&t=fKuVsFnjQfzKprBt-0
+
 html css js react minista
 
-1.6 6:00 lesson next
+1.9 lesson next
 
 Разработка современных веб-приложений с использованием передовых инструментов и подходов:
 
